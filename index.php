@@ -7,7 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-<h1> helloooo</h1>   
+<h1> helloooo</h1>  
+<h2> hi</h2> 
 <?php echo "HELLO";
 ?>
 </body>
